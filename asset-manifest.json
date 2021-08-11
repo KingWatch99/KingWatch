@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KingWatch/static/css/main.96e165a8.chunk.css",
+    "main.js": "/KingWatch/static/js/main.3c82805e.chunk.js",
+    "main.js.map": "/KingWatch/static/js/main.3c82805e.chunk.js.map",
+    "runtime-main.js": "/KingWatch/static/js/runtime-main.b70300e0.js",
+    "runtime-main.js.map": "/KingWatch/static/js/runtime-main.b70300e0.js.map",
+    "static/js/2.a95ed01d.chunk.js": "/KingWatch/static/js/2.a95ed01d.chunk.js",
+    "static/js/2.a95ed01d.chunk.js.map": "/KingWatch/static/js/2.a95ed01d.chunk.js.map",
+    "index.html": "/KingWatch/index.html",
+    "precache-manifest.a02d6e6d77556309b7a018d4cf05e79e.js": "/KingWatch/precache-manifest.a02d6e6d77556309b7a018d4cf05e79e.js",
+    "service-worker.js": "/KingWatch/service-worker.js",
+    "static/css/main.96e165a8.chunk.css.map": "/KingWatch/static/css/main.96e165a8.chunk.css.map",
+    "static/js/2.a95ed01d.chunk.js.LICENSE.txt": "/KingWatch/static/js/2.a95ed01d.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/KingWatch/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b70300e0.js",
+    "static/js/2.a95ed01d.chunk.js",
+    "static/css/main.96e165a8.chunk.css",
+    "static/js/main.3c82805e.chunk.js"
+  ]
+}
